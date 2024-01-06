@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bhargavi K Rao</h1>
 <h3 align="center">A passionate AWS and DevOps Engineer from India</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/bhargavi-k-rao954/bhargavi-k-rao954/main/banner-1.png"> </div>
+
+<!-- About Me -->
+<h3 align="left"><font size="+2" face="Verdana"> About Me:</font></h3>
+
+
+- I have hands on experience with version control system, bash scripting, CI/CD Pipeline, Containerization, Linux Administration, Kubernetes, HashiCorp Terraform.
+- Hands on experience on cloud platform such as AWS.
+- I am an immediate joiner.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavi-k-rao954&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavi-k-rao954" /> </p>
 
 - 👯 I’m looking to collaborate on **cloud native projects**
